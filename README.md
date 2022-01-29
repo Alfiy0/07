@@ -1,1 +1,1 @@
-# takeover subdomain n.emailer.mtkc.gh.allegrogroup.com
+# takeover subdomain me.host35.mtkc.gh.allegrogroup.com
