@@ -1,2 +1,2 @@
-#subdomain takeover #
+subdomain takeover 
 
